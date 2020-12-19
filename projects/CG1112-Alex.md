@@ -11,9 +11,7 @@ labels:
   - Arduino Uno
   - C++
   - Raspberry Pi
-
-summary: Alex is a Search & Rescue robot that is remotely controlled by Pi, motors are controlled by arduino and its
-lidar is powered separately.
+summary: Alex is a Search & Rescue robot that is remotely controlled by Pi, motors are controlled by arduino and itslidar is powered separately.
 ---
 
 <div class="ui small rounded images">
