@@ -32,8 +32,9 @@ control the motor direction (wheels direction)
 3) 2) Activate lidar to start scanning
 4) Launch Rviz/GNUplot to view the plotted map
 
+
 <figure class="video_container">
-  <iframe src="https://youtu.be/Ss2t-jPKTgU" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss2t-jPKTgU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
