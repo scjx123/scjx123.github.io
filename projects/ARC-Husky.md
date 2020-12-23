@@ -16,8 +16,6 @@ labels:
 summary: A simulation project for indoor SLAM to obtain ground truth. 
 ---
 
-#<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
-
 This is a summer project i've conducted with NUS Advance Robotic Center over the summer of 2020. The objective is to build an indoor office environment 
 for the virtual Husky robot to conduct various SLAM algorithm for the team to compare and obtain ground truth for the larger project that involves Laikago from unitTree. 
 
